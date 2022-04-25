@@ -32,8 +32,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | 1 |  |
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | 1 |  |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 1 |  |
-| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
-| [LRU Cache](https://leetcode.com/problems/lru-cache/)  | 1 |  |
+| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | 1 |  |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
